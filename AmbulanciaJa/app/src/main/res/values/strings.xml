@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_tela_cadastro">tela_cadastro</string>
+    <string name="title_activity_tela_perfil_medico">tela_perfil_medico</string>
+    <string name="title_activity_tela_socorro">tela_socorro</string>
 </resources>
