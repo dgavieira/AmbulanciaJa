@@ -1,0 +1,25 @@
+Link para o repositório GitHub
+
+https://github.com/dgavieira/AmbulanciaJa
+
+Tutorial
+
+SignUp for GitHub
+
+Baixar e Instalar o Github Desktop
+
+Acessar o link acima e clicar na opção: Clone in Desktop
+
+No github desktop
+
+Para baixar versão do servidor - Botão Sync
+
+Para atualizar nova versão para o servidor - Changes
+
+Summary - Título da Mudança - Funcionalidade Implementada
+
+Description - descrição resumida do que foi feito
+
+Commit to Master - botão de upload
+
+Para sincronizar nova versão - sync.
